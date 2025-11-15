@@ -12,5 +12,6 @@ A simple CLI-based CRUD system to manage student records using Java and ArrayLis
 
 ## How to run
 1. Ensure JDK is installed (Java 8+).
-2. Open terminal in the `src` folder.
-3. Compile:
+2. Open terminal in the `student-record-system
+3. ` folder.
+4. Compile:
